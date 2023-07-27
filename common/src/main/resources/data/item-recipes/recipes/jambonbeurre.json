@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "CPW",
+    " B "
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:carrot"
+    },
+    "P": {
+      "item": "minecraft:potato"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    },
+    "B": {
+      "item": "minecraft:bread"
+    }
+  },
+  "result": {
+    "item": "minecraft:bread",
+    "nbt": "{CustomModelData:2000001,display:{Name:'[{\"text\":\"Jambon Beurre\",\"italic\":false,\"color\":\"yellow\"}]',Lore:['[{\"text\":\"Encounter Power: Ground Lv. 1\",\"italic\":false,\"color\":\"gray\"}]','[{\"text\":\"Raid Power: Grass Lv. 1\",\"italic\":false,\"color\":\"gray\"}]','[{\"text\":\"Catching Power: Psychic Lv. 1\",\"italic\":false,\"color\":\"gray\"}]']}}",
+    "count": 1
+  }
+}
